@@ -1,6 +1,6 @@
 ## Overview 
 
-This is a meteorite package of the [AmCharts](amcharts.com) free version for meteor projects.
+This is a meteorite package of the [AmCharts](http://www.amcharts.com/) free version for meteor projects.
 
 ## Installation
 
