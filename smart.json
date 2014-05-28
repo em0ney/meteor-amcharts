@@ -3,7 +3,7 @@
   "description": "Meteor package for AmCharts free distribution",
   "homepage": "https://github.com/em0ney/meteor-amcharts",
   "author": "Elliott Spira <elliottspira.com>",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "git": "https://github.com/em0ney/meteor-amcharts.git",
   "packages": {}
 }
