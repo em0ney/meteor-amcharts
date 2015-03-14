@@ -1,5 +1,9 @@
 Package.describe({
-  summary: "Plugin for easy installation of amcharts free version in meteor projects"
+  summary: "Plugin for easy installation of amcharts free version in meteor projects",
+  name: "amcharts",
+  version: "3.13.1",
+  git: "https://github.com/em0ney/meteor-amcharts.git",
+  documentation: "README.md"
 });
 
 Package.on_use(function (api) {
@@ -106,6 +110,7 @@ Package.on_use(function (api) {
   api.add_files('lib/themes/dark.js', 'client');
   api.add_files('lib/themes/light.js', 'client');
   api.add_files('lib/themes/patterns.js', 'client');
+  api.add_files('lib/plugins/responsive/responsive.js', 'client');
   api.export("AmCharts");
   api.export("jsPDF");
 });
