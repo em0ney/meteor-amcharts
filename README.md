@@ -4,7 +4,7 @@ This is a meteorite package of the [AmCharts](http://www.amcharts.com/) free ver
 
 ## Installation
 
-Install by typing `mrt add amcharts`
+Install by typing `meteor add em0ney:amcharts`
 
 ## Usage
 
