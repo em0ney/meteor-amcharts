@@ -1,10 +1,12 @@
 ## Overview 
 
-This is a meteorite package of the [AmCharts](http://www.amcharts.com/) free version for meteor projects.
+This is a meteor package of the [AmCharts](http://www.amcharts.com/) free version for meteor projects.
 
 ## Installation
 
 Install by typing `meteor add em0ney:amcharts`
+
+This version replaces 'mrt:amcharts'
 
 ## Usage
 
