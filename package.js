@@ -1,7 +1,7 @@
 Package.describe({
-  summary: "DEPRACATED: use em0ney:amcharts",
-  name: "mrt:amcharts",
-  version: "3.13.1",
+  summary: "Plugin for easy installation of amcharts free version in meteor projects",
+  name: "em0ney:amcharts",
+  version: "3.13.1.1",
   git: "https://github.com/em0ney/meteor-amcharts.git",
   documentation: "README.md"
 });
