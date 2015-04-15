@@ -1,7 +1,7 @@
 ## Overview 
 
 This is a meteor package of the [AmCharts](http://www.amcharts.com/) free version for meteor projects.
-[Demo site](em0ney-amcharts-example.meteor.com)
+[Demo site](http://em0ney-amcharts-example.meteor.com)
 [Example code](https://github.com/thesaucecode/meteor-amcharts-example)
 
 ## Installation
