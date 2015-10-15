@@ -80,7 +80,6 @@ Package.onUse(function (api) {
   api.addAssets('lib/images/export.png', 'client');
   api.addAssets('lib/images/exportWhite.png', 'client');
   api.addAssets('lib/images/lens.png', 'client');
-  api.addAssets('lib/images/lensWhite.png', 'client');
   api.addAssets('lib/images/dragIconRectBig.png', 'client');
   api.addAssets('lib/images/dragIconRectBig.svg', 'client');
   api.addAssets('lib/images/dragIconRectBigBlack.png', 'client');
@@ -118,7 +117,6 @@ Package.onUse(function (api) {
   api.addAssets('lib/images/lens.svg', 'client');
   api.addAssets('lib/images/lensWhite_old.png', 'client');
   api.addAssets('lib/images/lens_old.png', 'client');
-  api.addAssets('lib/images/lens_white.svg', 'client');
   api.addAssets('lib/images/pencilIcon.svg', 'client');
   api.addAssets('lib/images/pencilIconH.svg', 'client');
   api.addAssets('lib/images/xIcon.svg', 'client');
