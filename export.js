@@ -1,0 +1,1 @@
+AmCharts = window.AmCharts;
