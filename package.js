@@ -1,7 +1,7 @@
 Package.describe({
   summary: "Plugin for easy installation of amcharts free version in meteor projects",
   name: "em0ney:amcharts",
-  version: "3.17.3",
+  version: "3.17.3_2",
   git: "https://github.com/em0ney/meteor-amcharts.git",
   documentation: "README.md"
 });
@@ -70,6 +70,11 @@ Package.onUse(function (api) {
   // api.addFiles('lib/plugins/export/libs/pdfmake/pdfmake.js', 'client');
   // api.addFiles('lib/plugins/export/libs/pdfmake/vfs_fonts.js', 'client');
   api.addFiles('lib/plugins/export/libs/xlsx/xlsx.js', 'client', {'bare':true});
+  api.addFiles('lib/plugins/export/lang/de.js', 'client');
+  api.addFiles('lib/plugins/export/lang/en.js', 'client');
+  api.addFiles('lib/plugins/export/lang/fr.js', 'client');
+  api.addFiles('lib/plugins/export/lang/lt.js', 'client');
+  api.addFiles('lib/plugins/export/lang/pl.js', 'client');
   api.addFiles('lib/plugins/responsive/responsive.min.js', 'client');
 
   // Assets can be accessed via the Assets API from the server, or at the URL /packages/em0ney_amcharts/ from the client
