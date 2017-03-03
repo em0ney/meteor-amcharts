@@ -1,6 +1,6 @@
 Package.describe({
   summary: "Plugin for easy installation of amcharts free version in meteor projects",
-  name: "em0ney:amcharts-new",
+  name: "em0ney:amcharts",
   version: "3.17.3",
   git: "https://github.com/em0ney/meteor-amcharts.git",
   documentation: "README.md"
