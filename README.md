@@ -26,3 +26,4 @@ Within your chart initialization, if referencing any images (e.g. 'export.png'),
           }]  
       }
 
+<!--hi-->
